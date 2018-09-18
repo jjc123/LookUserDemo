@@ -1,4 +1,5 @@
 # LookUserDemo
+`背景`：IDEA+JDK8+Mysql8
 使用IDEA整合Spring+Mybatis，jar包使用Maven管理,过程中用log4j来输出sql语句，以便查看软件与数据库之间的具体交流过程，而不是一个简简单单的返回结果。
 
 如：
